@@ -3,7 +3,7 @@
 </p>
 
 ---
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jcoegkmjenfpgmkoeomahaioddaajfdk.svg)](https://img.shields.io/chrome-web-store/v/jcoegkmjenfpgmkoeomahaioddaajfdk.svg)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jcoegkmjenfpgmkoeomahaioddaajfdk.svg)](https://chrome.google.com/webstore/detail/pinger/jcoegkmjenfpgmkoeomahaioddaajfdk)
 
 ## Table of Contents
 * [What is **PINGER**?](#what-is-pinger)
